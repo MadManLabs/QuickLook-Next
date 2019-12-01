@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickLook.Supervisor", "QuickLook.Supervisor\QuickLook.Supervisor.csproj", "{9C826AB0-B2E9-45F1-ABAC-3D36FF702FB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickLook.Previewer", "QuickLook.Previewer\QuickLook.Previewer.csproj", "{9B622ECA-A332-43E9-9FAC-460DD55D6677}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C826AB0-B2E9-45F1-ABAC-3D36FF702FB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C826AB0-B2E9-45F1-ABAC-3D36FF702FB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C826AB0-B2E9-45F1-ABAC-3D36FF702FB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C826AB0-B2E9-45F1-ABAC-3D36FF702FB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B622ECA-A332-43E9-9FAC-460DD55D6677}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B622ECA-A332-43E9-9FAC-460DD55D6677}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B622ECA-A332-43E9-9FAC-460DD55D6677}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B622ECA-A332-43E9-9FAC-460DD55D6677}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACA3022C-14B9-4B01-86F5-C4B50A6D4E85}
+	EndGlobalSection
+EndGlobal
